@@ -1,0 +1,17 @@
+column,value,meaning,number_of_classes
+cooler,3,near failure,3
+cooler,20,reduced efficiency,3
+cooler,100,full efficiency,3
+valve,100,optimal switching behavior,4
+valve,90,small lag,4
+valve,80,severe lag,4
+valve,73,near failure,4
+pump,0,no leakage,3
+pump,1,weak leakage,3
+pump,2,severe leakage,3
+accumulator,130,optimal pressure,4
+accumulator,115,slightly reduced pressure,4
+accumulator,100,severely reduced pressure,4
+accumulator,90,near failure,4
+stable,0,stable,2
+stable,1,static conditions might not have been reached yet,2

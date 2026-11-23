@@ -1,0 +1,18 @@
+sensor,group,unit,sampling_hz,samples_per_cycle,what_it_measures
+PS1,pressure,bar,100,6000,Records pressure in each 60-second cycle.
+PS2,pressure,bar,100,6000,Records pressure in each 60-second cycle.
+PS3,pressure,bar,100,6000,Records pressure in each 60-second cycle.
+PS4,pressure,bar,100,6000,Records pressure in each 60-second cycle.
+PS5,pressure,bar,100,6000,Records pressure in each 60-second cycle.
+PS6,pressure,bar,100,6000,Records pressure in each 60-second cycle.
+EPS1,motor power,W,100,6000,Records motor power in each 60-second cycle.
+FS1,flow,l/min,10,600,Records flow in each 60-second cycle.
+FS2,flow,l/min,10,600,Records flow in each 60-second cycle.
+TS1,temperature,deg C,1,60,Records temperature in each 60-second cycle.
+TS2,temperature,deg C,1,60,Records temperature in each 60-second cycle.
+TS3,temperature,deg C,1,60,Records temperature in each 60-second cycle.
+TS4,temperature,deg C,1,60,Records temperature in each 60-second cycle.
+VS1,vibration,mm/s,1,60,Records vibration in each 60-second cycle.
+CE,virtual cooling,%,1,60,Records virtual cooling in each 60-second cycle.
+CP,virtual cooling,kW,1,60,Records virtual cooling in each 60-second cycle.
+SE,efficiency,%,1,60,Records efficiency in each 60-second cycle.

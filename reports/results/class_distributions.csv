@@ -1,0 +1,17 @@
+target,value,count,percentage,largest_smallest_ratio
+cooler,3,732,33.2,1.012
+cooler,20,732,33.2,1.012
+cooler,100,741,33.61,1.012
+valve,73,360,16.33,3.125
+valve,80,360,16.33,3.125
+valve,90,360,16.33,3.125
+valve,100,1125,51.02,3.125
+pump,0,1221,55.37,2.482
+pump,1,492,22.31,2.482
+pump,2,492,22.31,2.482
+accumulator,90,808,36.64,2.025
+accumulator,100,399,18.1,2.025
+accumulator,115,399,18.1,2.025
+accumulator,130,599,27.17,2.025
+stable,0,1449,65.71,1.917
+stable,1,756,34.29,1.917
